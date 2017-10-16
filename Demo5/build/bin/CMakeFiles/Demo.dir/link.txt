@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/Demo.dir/main.c.o  -o Demo  -L/tmp/demo4/lib -Wl,-rpath,/tmp/demo4/lib -Wl,-Bstatic -lmath -Wl,-Bdynamic 

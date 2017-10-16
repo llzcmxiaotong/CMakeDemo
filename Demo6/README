@@ -1,0 +1,4 @@
+usage:
+   cd build/
+   cmake -DCMAKE_INSTALL_PREFIX=/temp/test ..
+   make install

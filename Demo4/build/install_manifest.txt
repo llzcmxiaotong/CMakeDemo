@@ -1,0 +1,5 @@
+/tmp/demo4/lib/libmath.so.1.2
+/tmp/demo4/lib/libmath.so.1
+/tmp/demo4/lib/libmath.so
+/tmp/demo4/lib/libmath.a
+/tmp/demo4/include/library/library.h

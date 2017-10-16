@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/llzcm/CMakeProject/Demo1/main.c
+stdlib.h
+-
+stdio.h
+-
+math/library.h
+/home/llzcm/CMakeProject/Demo1/math/library.h
+
+/home/llzcm/CMakeProject/Demo1/math/library.h
+

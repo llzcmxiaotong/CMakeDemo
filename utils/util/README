@@ -1,0 +1,16 @@
+Although Macros are defined and called in the same manner as functions, there are some differences between them, for example in SCOPE and when its execution.
+
+SCOPE:
+
+Macro: has global scope.
+Function: has a local scope whether you don't specify.
+EXECUTION: it works like C++ or C
+
+Macro: the variable names are replaced to strings before configuring.
+Function: the variable names are replaced during execution.
+In conclusion, add the PARENT_SCOPE flag in set command
+
+set(PROTO_FILES ${PROTO_FILES} ${file_name} PARENT_SCOPE)
+
+so we use macro when we write sub_dirs_recurse
+

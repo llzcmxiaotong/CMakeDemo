@@ -1,0 +1,6 @@
+/home/llzcm/CMakeProject/Demo1/CMakeFiles/rebuild_cache.dir
+/home/llzcm/CMakeProject/Demo1/CMakeFiles/edit_cache.dir
+/home/llzcm/CMakeProject/Demo1/CMakeFiles/Demo.dir
+/home/llzcm/CMakeProject/Demo1/math/CMakeFiles/rebuild_cache.dir
+/home/llzcm/CMakeProject/Demo1/math/CMakeFiles/edit_cache.dir
+/home/llzcm/CMakeProject/Demo1/math/CMakeFiles/math.dir
